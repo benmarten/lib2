@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E23BA8A6671739932DB8AC2A5BE92E86320F4677",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1F69D2DC97E932BFEC3EF6DCB57C0B2F7C7C79AF" : 9223372036854775807,
+    "E23BA8A6671739932DB8AC2A5BE92E86320F4677" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FCD6E9FA-99C2-4728-B0B6-91A8B1E968BF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1F69D2DC97E932BFEC3EF6DCB57C0B2F7C7C79AF" : "lib1\/",
+    "E23BA8A6671739932DB8AC2A5BE92E86320F4677" : "lib2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "lib2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/lib2.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:benmarten\/lib1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F69D2DC97E932BFEC3EF6DCB57C0B2F7C7C79AF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:benmarten\/pod-lib-test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E23BA8A6671739932DB8AC2A5BE92E86320F4677"
+    }
+  ]
+}
